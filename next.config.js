@@ -22,6 +22,6 @@ module.exports = withPWA({
   },
   env: {
     key: process.env.COUNT_API_KEY,
-    URL: noah-is-big-simp.pages.dev,
+    URL: "noah-is-big-simp.pages.dev",
   },
 });
